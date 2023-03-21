@@ -1,0 +1,9 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  negative &  neutral &  positive \\
+\midrule
+negative &      2847 &      910 &       266 \\
+neutral  &       592 &     3668 &       302 \\
+positive &       515 &      861 &      2776 \\
+\bottomrule
+\end{tabular}

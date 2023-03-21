@@ -1,0 +1,20 @@
+\begin{table}[hbp!]
+\npdecimalsign{.}
+\nprounddigits{3}
+\npthousandsep{}
+\centering
+\caption{afrisent-semeval 2023 task-a}\label{tab:results-val-}
+\begin{tabular}{lrrr}
+\toprule
+{} &               precision &                  recall &                f1-score \\
+\midrule
+negative     &  \no{69.93044408774746} &  \no{64.97638578175491} &  \no{67.36245329210152} \\
+neutral      &  \no{67.42574257425743} &  \no{74.63831652783867} &  \no{70.84893882646692} \\
+positive     &  \no{75.69004811344644} &  \no{71.98940269749518} &  \no{73.79335884458709} \\
+accuracy     &  \no{70.72309020962551} &  \no{70.72309020962551} &  \no{70.72309020962551} \\
+macro avg    &  \no{71.01541159181711} &   \no{70.5347016690296} &  \no{70.66825032105184} \\
+weighted avg &   \no{70.9108498041768} &  \no{70.72309020962551} &  \no{70.70754765197394} \\
+\bottomrule
+\end{tabular}
+
+\end{table}
